@@ -1,0 +1,15 @@
+C:\Users\Samsung\Desktop\DZ\git\Test1term\bin\Debug\net6.0\Test1term.exe
+C:\Users\Samsung\Desktop\DZ\git\Test1term\bin\Debug\net6.0\Test1term.deps.json
+C:\Users\Samsung\Desktop\DZ\git\Test1term\bin\Debug\net6.0\Test1term.runtimeconfig.json
+C:\Users\Samsung\Desktop\DZ\git\Test1term\bin\Debug\net6.0\Test1term.dll
+C:\Users\Samsung\Desktop\DZ\git\Test1term\bin\Debug\net6.0\Test1term.pdb
+C:\Users\Samsung\Desktop\DZ\git\Test1term\obj\Debug\net6.0\Test1term.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\DZ\git\Test1term\obj\Debug\net6.0\Test1term.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\DZ\git\Test1term\obj\Debug\net6.0\Test1term.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\DZ\git\Test1term\obj\Debug\net6.0\Test1term.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\DZ\git\Test1term\obj\Debug\net6.0\Test1term.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\DZ\git\Test1term\obj\Debug\net6.0\Test1term.dll
+C:\Users\Samsung\Desktop\DZ\git\Test1term\obj\Debug\net6.0\refint\Test1term.dll
+C:\Users\Samsung\Desktop\DZ\git\Test1term\obj\Debug\net6.0\Test1term.pdb
+C:\Users\Samsung\Desktop\DZ\git\Test1term\obj\Debug\net6.0\Test1term.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\DZ\git\Test1term\obj\Debug\net6.0\ref\Test1term.dll
